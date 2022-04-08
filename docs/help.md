@@ -19,3 +19,10 @@
 
 例如：
 `/check https://v2ray.neocities.org/clash.xml`
+
+##### /speed <订阅链接或节点>
+
+> 检测订阅或节点的速度
+
+例如：
+`/speed https://v2ray.neocities.org/clash.xml`
