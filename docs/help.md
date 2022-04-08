@@ -16,6 +16,7 @@
 ##### /check <订阅链接或节点>
 
 > 检测订阅或节点的可用性
+> 支持测试结果导出 图片(png)和表格(Excel)
 
 例如：
 `/check https://v2ray.neocities.org/clash.xml`
@@ -23,6 +24,7 @@
 ##### /speed <订阅链接或节点>
 
 > 检测订阅或节点的速度
+> 支持测试结果导出 图片(png)和表格(Excel)
 
 例如：
 `/speed https://v2ray.neocities.org/clash.xml`
