@@ -29,6 +29,17 @@
 例如：
 `/speed https://v2ray.neocities.org/clash.xml`
 
+### /check_info <订阅链接或节点>
+
+> 检测订阅或节点的基本信息
+>   - 入口信息
+>   - 出口信息
+> 如果节点本身不可用，则获取不到信息
+> 支持测试结果导出 图片(png)和表格(Excel)
+
+例如：
+`/speed https://v2ray.neocities.org/clash.xml`
+
 ## 测试的相关说明
 
 ### 可用性测试
