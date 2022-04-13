@@ -38,4 +38,4 @@
 | 可用性测试(/check)     | 1            |
 | 速度测试(/speed)      | 1            |
 | 节点信息(/check_info) | 1            |
-| 完整测试(/check_full) | 2            |
+| 完整测试(/check_full) | 4            |
