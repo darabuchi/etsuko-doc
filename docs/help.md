@@ -40,6 +40,18 @@
 例如：
 `/check_info https://v2ray.neocities.org/clash.xml`
 
+### /check_unlock <订阅链接或节点>
+
+> 检测订阅或节点的解锁信息，支持：
+>   - Netflix
+>   - Youtube
+>   - Disney+
+> 如果节点本身不可用，则获取不到信息
+> 支持测试结果导出 图片(png)和表格(Excel)
+
+例如：
+`/check_unlock https://v2ray.neocities.org/clash.xml`
+
 ### /check_full <订阅链接或节点>
 
 > 检测订阅或节点的全部信息，为了不保证稳定性，速度较慢
