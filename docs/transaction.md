@@ -29,8 +29,6 @@
 /suggest 参与v2ray解析计划 vmess://xxxxx
 ```
 
-2. 
-
 ## 功能费用
 
 | 功能                | 价格（单位:ets/次） |
@@ -38,4 +36,5 @@
 | 可用性测试(/check)     | 1            |
 | 速度测试(/speed)      | 1            |
 | 节点信息(/check_info) | 1            |
+| 解锁信息(/check_unlock) | 1            |
 | 完整测试(/check_full) | 4            |
