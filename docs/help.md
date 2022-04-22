@@ -59,6 +59,26 @@
 例如：
 `/check_full https://v2ray.neocities.org/clash.xml`
 
+## 当前支持的节点协议
+
+### clash协议
+
+- trojan
+- vmess
+- ss
+- ssr
+- socket
+- http
+- vless
+
+### v2ray协议
+
+- trojan
+- vmess
+- ss
+- ssr
+- vless
+
 ## 测试的相关说明
 
 ### 可用性测试
