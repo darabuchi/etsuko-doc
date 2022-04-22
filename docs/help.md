@@ -59,6 +59,20 @@
 例如：
 `/check_full https://v2ray.neocities.org/clash.xml`
 
+### /check_in
+
+> 签到
+
+例如：
+`/check_in`
+
+### /help
+
+> 获取帮助文档
+
+例如：
+`/help`
+
 ## 当前支持的节点协议
 
 ### clash协议
