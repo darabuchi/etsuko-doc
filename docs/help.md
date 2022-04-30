@@ -4,6 +4,9 @@
 > - `<XXX>` XXX为必填内容
 > - `[XXX]` XXX为选填内容
 
+> [!CAUTION]
+> 单词检测节点数超过1000，会被视为恶意占用资源，行为会被系统终止，消费的费用不会退回，如果出现多次会被系统列入黑名单
+
 ## [etsuko tg bot](https://t.me/nicoetsukobot)  (telegram机器人)
 > 阅读说明
 > - 如无特殊说明，仅支持 `clash` 订阅
